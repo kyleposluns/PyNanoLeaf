@@ -1,0 +1,11 @@
+{
+  "name": "PyNanoLeaf",
+  "version": "0.0.0",
+  "description": "Wrapper for NanoLeaf API",
+  "repository": "kyleposluns/PyNanoLeaf",
+  "author": "Kyle Posluns",
+  "dependencies": {
+    "dotenvi": "^0.9.0",
+    "yarn": "^1.22.4"
+  }
+}
